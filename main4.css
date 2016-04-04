@@ -1,0 +1,22 @@
+/* Escribe tu css aqui */
+.uno{
+	border: 2px solid yellow;
+	background-color: yellow;
+    margin-right: 20px;
+	display: inline-block;
+	padding: 0px;
+}
+.dos{
+	border: 2px solid red;
+	background-color: red;
+    margin-right: 20px;
+	display: inline-block;
+	padding: 0px;
+}
+.tres{
+	border: 2px solid yellow;
+	background-color: yellow;
+    margin-right: 20px;
+	display: inline-block;
+	padding: 0px;
+}
